@@ -1,2 +1,2 @@
-# cakculator
+# calculator
 This is my calculator...!!!
